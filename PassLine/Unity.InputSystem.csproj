@@ -209,8 +209,8 @@
     <Compile Include="Library/PackageCache/com.unity.inputsystem@920b46832575/InputSystem/Plugins/UnityRemote/UnityRemoteSupport.cs" />
     <Compile Include="Library/PackageCache/com.unity.inputsystem@920b46832575/InputSystem/Actions/InputActionRebindingExtensions.cs" />
     <Compile Include="Library/PackageCache/com.unity.inputsystem@920b46832575/InputSystem/Editor/InputAssetEditorUtils.cs" />
-    <Compile Include="Library/PackageCache/com.unity.inputsystem@920b46832575/InputSystem/Devices/Commands/QueryKeyNameCommand.cs" />
     <Compile Include="Library/PackageCache/com.unity.inputsystem@920b46832575/InputSystem/Plugins/OnScreen/OnScreenStick.cs" />
+    <Compile Include="Library/PackageCache/com.unity.inputsystem@920b46832575/InputSystem/Devices/Commands/QueryKeyNameCommand.cs" />
     <Compile Include="Library/PackageCache/com.unity.inputsystem@920b46832575/InputSystem/Editor/UITKAssetEditor/Views/BindingPropertiesView.cs" />
     <Compile Include="Library/PackageCache/com.unity.inputsystem@920b46832575/InputSystem/Actions/InputActionParameters.cs" />
     <Compile Include="Library/PackageCache/com.unity.inputsystem@920b46832575/InputSystem/Plugins/Users/InputUser.cs" />
