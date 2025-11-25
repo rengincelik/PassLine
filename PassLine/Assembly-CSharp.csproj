@@ -65,15 +65,16 @@
     <Analyzer Include="/home/nedogan/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/_Scripts/PlayManager.cs" />
     <Compile Include="Assets/Scripts/ScoreManager.cs" />
+    <Compile Include="Assets/_Slime/Scripts/Physics/SlimePhysic.cs" />
     <Compile Include="Assets/Scripts/ItemController.cs" />
     <Compile Include="Assets/Scripts/ItemManager.cs" />
     <Compile Include="Assets/Scripts/Item.cs" />
     <Compile Include="Assets/Scripts/TrejectoryDetector.cs" />
+    <Compile Include="Assets/_Slime/Scripts/Physics/SlimeCameraFollow.cs" />
     <Compile Include="Assets/InputSystem_Actions.cs" />
-    <Compile Include="Assets/_Scripts/DotController.cs" />
     <Compile Include="Assets/Scripts/GameManager.cs" />
+    <Compile Include="Assets/_Slime/Scripts/Physics/SlimeControlPoint.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
